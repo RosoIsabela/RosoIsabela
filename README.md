@@ -1,6 +1,6 @@
 # Olá! Eu sou Isabela Roso <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 💻 Sou desenvolvedora FrontEnd
+- 💻 Sou desenvolvedora
 - 🎓 Atualmente estou cursando Ciência da Computação na Universidade Federal Fronteira Sul
 
 
