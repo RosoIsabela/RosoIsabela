@@ -1,31 +1,35 @@
 # Olá! Eu sou Isabela Roso <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 💻 Sou desenvolvedora
-- 🎓 Atualmente estou cursando Ciência da Computação na Universidade Federal Fronteira Sul
+🎓 Graduanda em Ciência da Computação na Universidade Federal da Fronteira Sul (UFFS)  
+💻 Desenvolvedora com experiência em desenvolvimento web e interfaces  
+🔬 Interessada em pesquisa, Inteligência Artificial e Tecnologia Educacional  
+🚀 Vice-Presidente da FronteiraTec | Bolsista de Extensão na INNE
 
+## 👩🏻‍💻 Sobre mim
 
-## 🚀 Sobre mim
+Sou graduanda em Ciência da Computação pela Universidade Federal da Fronteira Sul (UFFS), com interesse nas áreas de Computação, Educação e Inovação Tecnológica.
 
-Sou apaixonada por tecnologia e desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades como desenvolvedora. Meu foco principal é no desenvolvimento FrontEnd, onde posso combinar minha criatividade com a lógica da programação para criar interfaces intuitivas e funcionais.
+Atualmente, sou bolsista de extensão na **INNE - Incubadora de Negócios**, atuando em atividades relacionadas à inovação e ao empreendedorismo. Também atuo como **Vice-Presidente da FronteiraTec**, Empresa Júnior de Computação da UFFS, participando da prospecção e negociação de projetos, gestão de equipe, relacionamento com clientes e planejamento de iniciativas.
 
+🔎 Atualmente, também desenvolvo pesquisas na área de Inteligência Artificial.
 
-## 💡 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="60" height="50"/> 
+### 💻 Desenvolvimento
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" />
+</p>
+
+### 🔧 Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px" height="20"> Conecte-se comigo 
 <p align="left">
     <a href="https://www.linkedin.com/in/isabela-roso" target="_blank">
         <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:isabelaroso11@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
 </p>
-
-
-## 📊 Estatísticas do GitHub
-![Isabela's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosoIsabela&show_icons=true&theme=radical)
-
-
